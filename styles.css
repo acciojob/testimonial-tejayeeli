@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.testimonials {
+    background-color: #f5f5f5;
+    padding: 25px;
+    max-width: 570px;
+}
+
+.testimonial {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
+.testimonial p {
+    margin: 0 0 8px;
+}
+
+.author {
+    text-align: right;
+    font-style: italic;
+}
